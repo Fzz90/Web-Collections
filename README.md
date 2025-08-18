@@ -1,2 +1,2 @@
-# Web-Collections
-All my websites project collections
+# Image Assets
+All the images for project needs
