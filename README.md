@@ -1,2 +1,2 @@
 # Image Assets
-All the images for project needs
+All the images for my project needs.
